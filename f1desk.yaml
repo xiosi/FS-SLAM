@@ -1,0 +1,11 @@
+rostopic list:
+  /camera/depth/camera_info
+  /camera/depth/image
+  /camera/rgb/camera_info
+  /camera/rgb/image_color
+
+/camera/depth/image:
+  encoding: "32FC1"
+
+/camera/rgb/image_color:
+  encoding: "rgb8"

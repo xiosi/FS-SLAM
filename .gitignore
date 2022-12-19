@@ -1,0 +1,8 @@
+build/
+bin/
+.vscode/
+Thirdparty/g2o/build/
+Thirdparty/DBoW2/build/
+LICENSE.txt
+config/ORB.txt
+config/ORB.txt.tar.gz
