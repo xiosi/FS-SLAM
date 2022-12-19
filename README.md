@@ -2,7 +2,7 @@
 
 ## build:
 
-### build the whole project ( inclouding binary loading tools ):
+### build the whole project ( including binary loading tools ):
 
 build with library
 
@@ -30,6 +30,7 @@ build with library
  <img src="./RUN.png" width = "300" height = "200" alt="图片名称" align=left />
 
 <img src="./map.png" width = "300" height = "200" alt="图片名称" align=center />
+
 ## 数据集
  <img src="./fr3-lc-ape.png" width = "300" height = "300" alt="图片名称" align=left />
 
